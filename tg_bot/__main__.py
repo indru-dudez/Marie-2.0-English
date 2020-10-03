@@ -25,8 +25,8 @@ To find out my power and help that i can do for you.
 Simply add me to your group by tapping the add me button given below 👻.
 
 
-**For more commands click /help...
-[Add Me To Group](buttonurl:http://t.me/SINNER_HP_bot?startgroup=botstart).**
+For more commands click /help...
+[Add Me To Group](buttonurl:http://t.me/SINNER_HP_bot?startgroup=botstart)
 
 """
 
