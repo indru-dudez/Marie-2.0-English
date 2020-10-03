@@ -18,14 +18,15 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-hoi {}, my name is {}! im a group manager bot maintained by my master [SINNER](tg://user?id={}).
+Hoi {}, my name is {}! im a group manager bot maintained by my master [SINNER](tg://user?id={}).
 
-To find out my power and help that i can do for you add me to your group.
+To find out my power and help that i can do for you.
 
-For more commands click /help...
-[Add Me To Group](http://t.me/SINNER_HP_bot?startgroup=botstart)
+Simply add me to your group by tapping the add me button given below 👻.
 
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
+
+**For more commands click /help...
+[Add Me To Group](buttonurl:http://t.me/SINNER_HP_bot?startgroup=botstart).**
 
 """
 
