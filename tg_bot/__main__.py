@@ -26,7 +26,10 @@ Simply add me to your group by tapping the add me button given below 👻.
 
 
 For more commands click /help...
-[Add Me To Group](buttonurl:http://t.me/SINNER_HP_bot?startgroup=botstart)
+
+
+
+©>>>[Add Me To Group](http://t.me/SINNER_HP_bot?startgroup=botstart)<<<®
 
 """
 
